@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Markers
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5038673767946466740
+  m_GuidHigh: 4611718848582061472
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5298284315325221335
+      m_GuidHigh: 9656259917103930010
+    m_SerializedTextureGuid:
+      m_GuidLow: 4464414443802681065
+      m_GuidHigh: 15106022150796773993
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: comuneros
+    m_Texture: {fileID: 2800000, guid: 7cfb5ee9c9483df4698a6c6b1c5fa3d1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4952205894631058791
+      m_GuidHigh: 11590691729304855708
+    m_SerializedTextureGuid:
+      m_GuidLow: 4711978343135258682
+      m_GuidHigh: 11092770961338112520
+    m_Size: {x: 0.27, y: 0.27264708}
+    m_SpecifySize: 1
+    m_Name: procesx
+    m_Texture: {fileID: 2800000, guid: 83e9283a4f564164089a53d56a70f199, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5220405261706612886
+      m_GuidHigh: 16437501886579721631
+    m_SerializedTextureGuid:
+      m_GuidLow: 10179499111708752757
+      m_GuidHigh: 1867399940698576394
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: sotano
+    m_Texture: {fileID: 2800000, guid: 40cdfb75d8828d440a96ec265a56ea19, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5348403185685307675
+      m_GuidHigh: 504948160080819843
+    m_SerializedTextureGuid:
+      m_GuidLow: 17943507010134020673
+      m_GuidHigh: 10654034987181769000
+    m_Size: {x: 0.07, y: 0.05859691}
+    m_SpecifySize: 1
+    m_Name: sotano_sticker
+    m_Texture: {fileID: 2800000, guid: 93c51241248ef90428818d935fbcda93, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5625207552202639509
+      m_GuidHigh: 6168495896663761323
+    m_SerializedTextureGuid:
+      m_GuidLow: 11818750496613549992
+      m_GuidHigh: 15380095372865628795
+    m_Size: {x: 0.11, y: 0.09960031}
+    m_SpecifySize: 1
+    m_Name: sotanoOrange
+    m_Texture: {fileID: 2800000, guid: 4f9f47a8a2f5a4047bea481f411371d5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4939677682199567058
+      m_GuidHigh: 13239875089452599442
+    m_SerializedTextureGuid:
+      m_GuidLow: 14205735934132974294
+      m_GuidHigh: 7189759328393097945
+    m_Size: {x: 0.22, y: 0.21837036}
+    m_SpecifySize: 1
+    m_Name: sotanoQR
+    m_Texture: {fileID: 2800000, guid: 1eff72d6e991c524d9f26b250428c763, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5572462440477005367
+      m_GuidHigh: 1729024423698813848
+    m_SerializedTextureGuid:
+      m_GuidLow: 16326880910039320541
+      m_GuidHigh: 12791386158179609226
+    m_Size: {x: 0.2, y: 0.2579974}
+    m_SpecifySize: 1
+    m_Name: escasez
+    m_Texture: {fileID: 2800000, guid: 250007ddbbafe2948aea246ff02184b1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5489746446179190576
+      m_GuidHigh: 2737406715617968541
+    m_SerializedTextureGuid:
+      m_GuidLow: 12467369010426700813
+      m_GuidHigh: 11451272713357957626
+    m_Size: {x: 0.2, y: 0.19777778}
+    m_SpecifySize: 1
+    m_Name: dw
+    m_Texture: {fileID: 2800000, guid: 5e32640dfe0fad04fa19d381dc17eb9e, type: 3}
